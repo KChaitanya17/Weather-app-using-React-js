@@ -1,0 +1,31 @@
+.bg-image {
+  background-image: url("/src/images/clearsky.png");
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  border: 3px  white;
+  margin: 130px 310px;
+}
+h1 {
+  position: absolute;
+  bottom: 0;
+  right: 15px;
+  font-size: 50px;
+  color:#001a00;
+  padding-right: 30px;
+}
+h5 {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(12, 36, 68);
+}
+h6 {
+  color: black;
+  font-weight: bold;
+  font-size: large;
+}
+h4{
+  font-size: 15px;
+  color: black;
+}
+
